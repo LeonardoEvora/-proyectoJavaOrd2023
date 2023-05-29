@@ -12,6 +12,10 @@ public class Ejemplo {
 		
 		System.out.println("Año: " + (fecha1.getYear() + 1880));
 		System.out.println("Mes: " + fecha1.getMonth() + 5);
+	    
+	    System.out.println("Manuel Profe de sistemas");
+	    
+	    
 		
 	}
   
